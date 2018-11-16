@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8405" started-at="2018-11-16T04:31:33Z" finished-at="2018-11-16T04:31:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8405" started-at="2018-11-16T04:31:33Z" finished-at="2018-11-16T04:31:41Z">
+      <class name="com.ActionDemo.TestMouse">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.ActionDemo.TestMouse@735b5592]" name="beforeTest" is-config="true" duration-ms="5979" started-at="2018-11-16T10:01:33Z" finished-at="2018-11-16T10:01:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="ThirdTestCase()[pri:0, instance:com.ActionDemo.TestMouse@735b5592]" name="ThirdTestCase" duration-ms="2270" started-at="2018-11-16T10:01:39Z" finished-at="2018-11-16T10:01:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ThirdTestCase -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.ActionDemo.TestMouse@735b5592]" name="afterTest" is-config="true" duration-ms="115" started-at="2018-11-16T10:01:41Z" finished-at="2018-11-16T10:01:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.ActionDemo.TestMouse -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
